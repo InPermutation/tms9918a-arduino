@@ -1,7 +1,7 @@
 # tms9918a-arduino
 Talk to a Texas Instruments TMS9918A video display processor chip via an Arduino Mega clone.
 
-<img width="946" alt="image" src="https://user-images.githubusercontent.com/1096993/116016083-8880f000-a609-11eb-83e8-9487ff10fe0a.png">
+[ Watch on YouTube: <br /><img width="946" alt="image" src="https://user-images.githubusercontent.com/1096993/116016083-8880f000-a609-11eb-83e8-9487ff10fe0a.png">](https://youtu.be/QYom_OBcBCY)
 
 ## Pinout
 
